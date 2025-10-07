@@ -13,7 +13,3 @@ print(response)
 
 status = response['status']
 print(f'Order status: {status}')
-
-
-# TODO - can you print the order number?
-# TODO - can you print the order's items?
